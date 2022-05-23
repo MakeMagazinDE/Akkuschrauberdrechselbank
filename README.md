@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Eigenbau-Drechselbank
 
-**Mal eben einen Dübel auf den passenden Durchmesser bringen, die fehlende Schachfigur ersetzen oder den defekten Griff der geerbten Kommode nachbauen? Für solche kleinen Arbeiten mit wenigen Zentimetern Durchmesser ist diese Eigenbau-Drechselbank mit Akkuschrauber-Antrieb gedacht, die sich an einem Tag bauen lässt. **
+**Mal eben einen Dübel auf den passenden Durchmesser bringen, die fehlende Schachfigur ersetzen oder den defekten Griff der geerbten Kommode nachbauen? Für solche kleinen Arbeiten mit wenigen Zentimetern Durchmesser ist diese Eigenbau-Drechselbank mit Akkuschrauber-Antrieb gedacht, die sich an einem Tag bauen lässt.**
 
 ![Drechselbank](./Drechselbank.jpg)
 
@@ -15,27 +15,27 @@ Hier gibt es die **[Bohrschablonen](./Bohrschablonen/)**, weitere **[technische 
 ## Materialliste
 
 **Bankbett**
-18mm Multiplex 20cm × 65 cm -> Grundplatte
-18mm Multiplex 10,3cm × 50 cm -> 2× Bankbett waagerecht
-18mm Multiplex 10,3 × 50 cm -> 2× Bankbett senkrecht
+* 18mm Multiplex 20cm × 65 cm -> Grundplatte
+* 18mm Multiplex 10,3cm × 50 cm -> 2× Bankbett waagerecht
+* 18mm Multiplex 10,3 × 50 cm -> 2× Bankbett senkrecht
 
 **Spindelstock**
-18mm Multiplex 20cm × 48,3 cm -> 2× Spindelstock senkrecht
-18mm Multiplex 14cm × 25 cm -> Akkuschrauberhalter, Mitnehmerplatte
+* 18mm Multiplex 20cm × 48,3 cm -> 2× Spindelstock senkrecht
+* 18mm Multiplex 14cm × 25 cm -> Akkuschrauberhalter, Mitnehmerplatte
 
 **Reitstock**
-18mm Multiplex 20cm × 48,3 cm -> 2× Reitstock senkrecht
-18mm Multiplex 20cm × 15 cm -> Grundplatte Reitstock
-12mm Multiplex 15xm × 13,4 cm -> Führung Reitstock
-18mm Siebdruck 19,5cm × 15cm -> Fixierungsplatte Reitstock
+* 18mm Multiplex 20cm × 48,3 cm -> 2× Reitstock senkrecht
+* 18mm Multiplex 20cm × 15 cm -> Grundplatte Reitstock
+* 12mm Multiplex 15xm × 13,4 cm -> Führung Reitstock
+* 18mm Siebdruck 19,5cm × 15cm -> Fixierungsplatte Reitstock
 
 **Werkzeugauflage**
-18mm Multiplex 7,5cm × 35 cm -> Grundplatte Werkzeugauflage
-18mm Multiplex 16,5cm × 11,5 cm -> Werkzeugauflage senkrecht
-18mm Siebdruck 7,5cm × 19,5 cm -> Fixierungsplatte Werkzeugauflage
+* 18mm Multiplex 7,5cm × 35 cm -> Grundplatte Werkzeugauflage
+* 18mm Multiplex 16,5cm × 11,5 cm -> Werkzeugauflage senkrecht
+* 18mm Siebdruck 7,5cm × 19,5 cm -> Fixierungsplatte Werkzeugauflage
 
 **Sterngriffe**
-18mm Multiplex 10cm × 25 cm -> 3× Sterngriff
+* 18mm Multiplex 10cm × 25 cm -> 3× Sterngriff
 
 **Sonstiges**
 * Kugellager, Außendurchmesser 26mm, Innendurchmesser 10mm, Dicke 8mm
